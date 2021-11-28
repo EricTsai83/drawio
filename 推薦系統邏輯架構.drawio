@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-28T09:39:39.609Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="NyPoc0PMw5gm_xdhDG6-" version="15.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-28T09:50:06.203Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="dIPh8I3Z0sOWZ6aBgahP" version="15.8.6" type="github">
   <diagram id="5sF5ZyrV6DTs_JzKhUMP" name="第1頁">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -157,8 +157,8 @@
             <mxPoint x="345" y="1030" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dWe2MXaykKoBHlvBB-Hw-66" value="模型離線訓練" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="255" y="1060" width="180" height="40" as="geometry" />
+        <mxCell id="dWe2MXaykKoBHlvBB-Hw-66" value="模型離線訓練&lt;br&gt;&amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="255" y="1060" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="dWe2MXaykKoBHlvBB-Hw-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#000000;" edge="1" parent="1" source="dWe2MXaykKoBHlvBB-Hw-67">
           <mxGeometry relative="1" as="geometry">
@@ -170,7 +170,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dWe2MXaykKoBHlvBB-Hw-67" value="模型離線訓練" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="435" y="1060" width="180" height="40" as="geometry" />
+          <mxGeometry x="435" y="1060" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dWe2MXaykKoBHlvBB-Hw-73" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;align=center;verticalAlign=top;fillColor=#97D077;shape=mxgraph.gcp2.arrow_cycle;labelBackgroundColor=none;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="318" y="993.4" width="29.05" height="27.6" as="geometry" />
+        </mxCell>
+        <mxCell id="dWe2MXaykKoBHlvBB-Hw-74" value="&lt;b&gt;&lt;font color=&quot;#009900&quot;&gt;線上A/B測試&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="350" y="992" width="86" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dWe2MXaykKoBHlvBB-Hw-75" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;align=center;verticalAlign=top;fillColor=#B5739D;shape=mxgraph.gcp2.arrow_cycle;labelBackgroundColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="290.95" y="1100" width="29.05" height="27.6" as="geometry" />
+        </mxCell>
+        <mxCell id="dWe2MXaykKoBHlvBB-Hw-76" value="&lt;b&gt;&lt;font color=&quot;#b5739d&quot;&gt;線上A/B測試&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="324" y="1097.6" width="86" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
