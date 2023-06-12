@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-12T09:27:31.505Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="RmkYAWxxp5AuoRwmXu6m" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-12T09:28:23.919Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="PBRBqOGCvYzzioBb6j8-" version="21.3.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="847" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -34,17 +34,11 @@
         <mxCell id="ENmbn9L6dxske6XHu0BQ-6" value="是否點擊&lt;br&gt;AI Playground" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="330" y="60" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ENmbn9L6dxske6XHu0BQ-12" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ENmbn9L6dxske6XHu0BQ-9" target="ENmbn9L6dxske6XHu0BQ-11" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="hdifzTVistezPJ_OjFt2-16" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ENmbn9L6dxske6XHu0BQ-9" target="hdifzTVistezPJ_OjFt2-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ENmbn9L6dxske6XHu0BQ-9" value="透過 AI 技術整合的&lt;br&gt;遊戲列表頁" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="470" y="80" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="ENmbn9L6dxske6XHu0BQ-11" value="是否點擊&lt;br&gt;遊戲項目" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="650" y="60" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hdifzTVistezPJ_OjFt2-28" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hdifzTVistezPJ_OjFt2-0" target="hdifzTVistezPJ_OjFt2-25">
           <mxGeometry relative="1" as="geometry" />
