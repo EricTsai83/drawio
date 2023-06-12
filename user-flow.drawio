@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-12T09:28:23.919Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="PBRBqOGCvYzzioBb6j8-" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-12T09:44:58.782Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="7G-ZwwYiW9TJsa9tVyVa" version="21.3.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="847" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -88,17 +88,20 @@
         <mxCell id="hdifzTVistezPJ_OjFt2-10" value="prompt 在 ChatGPT 上的應用" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="hdifzTVistezPJ_OjFt2-29">
           <mxGeometry x="167" y="194" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="hdifzTVistezPJ_OjFt2-30" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="450" y="310" width="160" height="120" as="geometry" />
+        <mxCell id="hdifzTVistezPJ_OjFt2-32" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="450" y="310" width="160" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="hdifzTVistezPJ_OjFt2-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=none;" vertex="1" parent="hdifzTVistezPJ_OjFt2-30">
-          <mxGeometry width="160" height="120" as="geometry" />
+        <mxCell id="hdifzTVistezPJ_OjFt2-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=none;" vertex="1" parent="hdifzTVistezPJ_OjFt2-32">
+          <mxGeometry width="160" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="hdifzTVistezPJ_OjFt2-11" value="畫出我想要的形狀" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="hdifzTVistezPJ_OjFt2-30">
+        <mxCell id="hdifzTVistezPJ_OjFt2-11" value="畫出我想要的形狀" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="hdifzTVistezPJ_OjFt2-32">
           <mxGeometry x="20" y="13.850769230769231" width="120" height="36.92307692307693" as="geometry" />
         </mxCell>
-        <mxCell id="hdifzTVistezPJ_OjFt2-12" value="AI 猜你情緒" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="hdifzTVistezPJ_OjFt2-30">
-          <mxGeometry x="20" y="69.23538461538462" width="120" height="36.92307692307693" as="geometry" />
+        <mxCell id="hdifzTVistezPJ_OjFt2-12" value="AI 猜你情緒" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="hdifzTVistezPJ_OjFt2-32">
+          <mxGeometry x="20" y="66.53538461538466" width="120" height="36.92307692307693" as="geometry" />
+        </mxCell>
+        <mxCell id="hdifzTVistezPJ_OjFt2-31" value="你的英文多標準" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="hdifzTVistezPJ_OjFt2-32">
+          <mxGeometry x="20" y="119.99538461538464" width="120" height="36.92307692307693" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
